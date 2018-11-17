@@ -1,2 +1,2 @@
 # ConfigData
-This is repository holds the application configuration data
+This repository holds the application configuration data
