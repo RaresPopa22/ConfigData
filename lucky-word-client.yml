@@ -1,4 +1,4 @@
 ---
-wordconfig:
-    preamble: The lucky word is
-    luckyWord: Take everything...give nothing back
+wordConfig:
+  preamble: The lucky word is
+  luckyWord: Irish
