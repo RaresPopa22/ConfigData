@@ -10,7 +10,8 @@ eureka:
 spring:
   profiles: subject
 words: I,You,He,She,It
-
+server:
+  port: 8001
 ---
 spring:
   profiles: verb
