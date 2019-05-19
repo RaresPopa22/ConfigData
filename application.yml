@@ -16,8 +16,11 @@ server:
 spring:
   profiles: verb
 words: an,knew,had,saw,bought
-
+server:
+  port: 8002
 ---
 spring:
   profiles: cold-noun
 words: icicle,refrigerator,blizzard,snowball
+server:
+  port: 8016
