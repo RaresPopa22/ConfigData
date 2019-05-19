@@ -15,3 +15,8 @@ words: I,You,He,She,It
 spring:
   profiles: verb
 words: an,knew,had,saw,bought
+
+---
+spring:
+  profiles: cold-noun
+words: icicle,refrigerator,blizzard,snowball
