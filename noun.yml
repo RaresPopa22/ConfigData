@@ -1,0 +1,16 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8010/eureka
+
+---
+spring:
+  profiles: noun
+server:
+  port: 8200
+words: I,You,She,He,It
+      
+---
+spring:
+  profiles: cold-noun
+words: icicle,refrigerator,blizzard,snowball
