@@ -1,2 +1,4 @@
 ---
-luckyWord: GANGSTA
+wordConfig:
+  luckyWord: Serendipity
+  preamble: Rabbit's Foot
